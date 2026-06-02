@@ -1,0 +1,18 @@
+21:56:37 - Área de trabalho
+21:56:38 - arq.txt
+21:56:39 - atividade
+21:56:40 - atividade2.zip
+21:56:41 - atividade.zip
+21:56:42 - Aula 18d05
+21:56:43 - Documentos
+21:56:44 - Downloads
+21:56:45 - for_arq.sh
+21:56:46 - for asterisco.sh
+21:56:47 - Imagens
+21:56:48 - Modelos
+21:56:50 - Músicas
+21:56:51 - Público
+21:56:52 - script_arq.sh
+21:56:53 - script_for.sh
+21:56:54 - script.sh
+21:56:55 - Vídeos

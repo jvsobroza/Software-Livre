@@ -1,0 +1,18 @@
+Área de trabalho
+arq.txt
+atividade
+atividade2.zip
+atividade.zip
+Aula 18d05
+Documentos
+Downloads
+for_arq.sh
+for asterisco.sh
+Imagens
+Modelos
+Músicas
+Público
+script_arq.sh
+script_for.sh
+script.sh
+Vídeos
