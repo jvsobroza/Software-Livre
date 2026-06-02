@@ -13,19 +13,24 @@ if [ $# -lt 2 ]
         else
         if [ ! -d $pasta_dest/ ]
         then
+        #criação da pasta
             mkdir $pasta_dest
         fi
+            #entrando na pasta
             cd "$pasta_org/"
             for arq in *
             do
+                #verificação se o arquivo existe na cópia
                 if [ -f "../$pasta_dest/$arq" ] 
                 then
+                    #verificação se o arquivo da origem é mais recente
                     if [ $arq -nt "../$pasta_dest/$arq" ]
                     then
                         cp $arq ../$pasta_dest/
                         echo "Arquivo: $arq -> atualizado"
                     fi
                 else
+                    #se não existir, apenas copiar
                     cp $arq ../$pasta_dest/
                     echo "Arquivo: $arq -> copiado"
                 fi
