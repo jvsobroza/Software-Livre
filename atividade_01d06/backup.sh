@@ -14,6 +14,7 @@ if [ $# -lt 2 ]
         if [ ! -d $pasta_dest/ ]
         then
             mkdir $pasta_dest
+        fi
             cd "$pasta_org/"
             for arq in *
             do
@@ -29,6 +30,5 @@ if [ $# -lt 2 ]
                     echo "Arquivo: $arq -> copiado"
                 fi
             done
-        fi
     fi
 fi

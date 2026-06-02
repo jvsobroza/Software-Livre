@@ -9,3 +9,6 @@ Downloa
 script_for.sh
 script.sh
 Vídeos
+arquivo novo
+Aula nova
+Aula 2
